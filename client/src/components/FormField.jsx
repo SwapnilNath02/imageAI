@@ -23,12 +23,12 @@ const FormField = ({LabelName, type, name, placeholder, value, handleChange,isSu
         type={type}
         id={name}
         name={name}
+        className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-[#6469ff] focus:border-[#6469ff] outline-none block w-full p-3"
         placeholder={placeholder}
         value={value}
         onChange={handleChange}
         required
-        className='bg-gray-50 border-gray-300 text-gray-900 text-sm rounded-lg focus:ring=[#4649ff] fcus:border-[#4649ff] outline-none block w-full p-3'
-        />
+      />
       
     </div>
   )
