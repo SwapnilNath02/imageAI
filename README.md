@@ -6,6 +6,9 @@
 # TechStack
 • Created an image generating website that uses OpenAI’s DALL-E model( A deep learning model) to generate
 images from text input.
+<br>
 • Cloudinary is used as a cloud-based image storage.
+<br>
 • Tailwind is used as a CSS framework.
+<br>
 • Node.js and Express.js are used for backend development and MongoDB is used for database management.
